@@ -19,7 +19,7 @@ my $np = new Nmap::Parser;
 my @hosts = @ARGV; #get hosts from cmd line
  
 #runs the nmap command with hosts and parses it automagically
-$np->parsescan('/usr/bin/nmap','-sV -p 1-1023',@hosts);
+$np->parsescan('/usr/bin/nmap','-sV -p-',@hosts);
  
 for my $host ($np->all_hosts()){
        print "Host:";
