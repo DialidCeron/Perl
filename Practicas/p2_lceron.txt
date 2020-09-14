@@ -1,0 +1,26 @@
+--------------------------------------------------
+Estadisticas del reporte p1_lceron.txt 
+--------------------------------------------------
+
+Numero de host que utilizan cada puerto detectado: 
+PUERTO   HOSTS
+53       1   Puerto bien conocido
+80       1   Puerto bien conocido
+23       1   Puerto bien conocido
+
+Numero de puertos bien conocidos: 3
+Numero de puertos registrados: 0
+Numero de puertos de proposito general: 0
+
+Numero de puertos Open|Filtered: 3
+
+Numero de puertos TCP: 3
+
+Numero de puertos UDP: 0
+
+Host: 192.168.100.1
+Sistema operativo: Linux
+
+Numero de hosts con SO Linux: 1
+Numero de hosts con SO Windows 0
+Numero de hosts con SO Desconocido: 0

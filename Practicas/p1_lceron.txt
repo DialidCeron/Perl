@@ -1,0 +1,11 @@
+--------------------------------------------------
+Escaneo a la red: 192.168.100.1/32 
+--------------------------------------------------
+Host:
+192.168.100.1
+PUERTO  PROTOCOLO ESTADO      SERVICIO  VERSION
+23        tcp          open       telnet          
+53        tcp          open       domain          
+80        tcp          open       http          
+
+Numero de puertos activos por hosts: 3
