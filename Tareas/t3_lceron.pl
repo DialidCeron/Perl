@@ -1,8 +1,7 @@
 #!/usr/bin/perl
 #Programa que dibuja un medio rombo segun el numero que le proporcione el usuario
 
-print("Ingrese el numero de asteriscos: ");
-$entrada=<STDIN>;
+$entrada=$ARGV[0];
 $mitad=$entrada/2;
 
 for($i=0; $i<$mitad; $i++){
